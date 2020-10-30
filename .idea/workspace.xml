@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b07a204e-0599-4952-a913-caf19f1e33d2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1irQUURKxCb2bgKUtlN6imPeUpT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\11900429\WebstormProjects\WebEssentials1\Chess" />
+      <recent name="C:\Users\11900429\WebstormProjects\WebEssentials1\Tabellen" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\11900429\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b07a204e-0599-4952-a913-caf19f1e33d2" name="Default Changelist" comment="" />
+      <created>1602663247768</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602663247768</updated>
+      <workItem from="1602663249057" duration="4723000" />
+      <workItem from="1602829872144" duration="1149000" />
+      <workItem from="1602832564342" duration="4630000" />
+      <workItem from="1604043529142" duration="1012000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="262" key="FileChooserDialogImpl" timestamp="1604044505374">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604044505374" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1602663331246">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602663331246" />
+    <state x="745" y="264" key="run.anything.popup" timestamp="1602665101704">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="745" y="264" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602665101704" />
+    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1602664977982">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602664977982" />
+    <state x="790" y="311" width="477" height="628" key="svn.repositoryBrowser" timestamp="1604044652223">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="790" y="311" width="477" height="628" key="svn.repositoryBrowser/0.0.1920.1040@0.0.1920.1040" timestamp="1604044652223" />
+    <state x="748" y="294" key="svn4idea.import.options" timestamp="1604044510786">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="748" y="294" key="svn4idea.import.options/0.0.1920.1040@0.0.1920.1040" timestamp="1604044510786" />
+  </component>
+</project>
