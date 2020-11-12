@@ -1,0 +1,57 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+}
+
+.soundboardtext{
+    text-align: center;
+    color: yellow;
+}
+
+.container{
+    flex: border-box;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+    display: flex;
+}
+
+.buzzer{
+    display: flex;
+    margin: 10px auto;
+    align-items: center;
+    width: 45%;
+    border: yellow 5px solid;
+    flex-direction: column;
+}
+
+.fart{
+    display: flex;
+    margin: 10px auto;
+    align-items: center;
+    width: 45%;
+    border: yellow 5px solid;
+    flex-direction: column;
+}
+
+.doorbell{
+    display: flex;
+    margin: 10px auto;
+    align-items: center;
+    width: 45%;
+    border: yellow 5px solid;
+    flex-direction: column;
+}
+
+.badumtss{
+    display: flex;
+    margin: 10px auto;
+    align-items: center;
+    width: 45%;
+    border: yellow 5px solid;
+    flex-direction: column;
+
+}

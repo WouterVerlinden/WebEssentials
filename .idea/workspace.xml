@@ -40,6 +40,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\11900429\WebstormProjects\WebEssentials1\Flexbox\soundboard" />
       <recent name="C:\Users\11900429\WebstormProjects\WebEssentials1\Tabellen" />
       <recent name="C:\Users\11900429\WebstormProjects\WebEssentials1\Chess" />
     </key>
@@ -58,7 +59,9 @@
       <workItem from="1602663249057" duration="4723000" />
       <workItem from="1602829872144" duration="1149000" />
       <workItem from="1602832564342" duration="4630000" />
-      <workItem from="1604043529142" duration="6048000" />
+      <workItem from="1604043529142" duration="6105000" />
+      <workItem from="1605188747173" duration="52000" />
+      <workItem from="1605188800523" duration="5823000" />
     </task>
     <task id="LOCAL-00001" summary="web essentials project files">
       <created>1604044994015</created>
@@ -81,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604049503481</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Additions in Git">
+      <created>1604049975220</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604049975220</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,18 +104,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="Additions in Git" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="262" key="FileChooserDialogImpl" timestamp="1604044761052">
+    <state x="740" y="262" key="FileChooserDialogImpl" timestamp="1605188792989">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604044761052" />
+    <state x="740" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605188792989" />
     <state x="461" y="165" key="SettingsEditor" timestamp="1602663331246">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602663331246" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1604049504597">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1604049977936">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604049504597" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604049977936" />
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604045031874">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -114,10 +124,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="745" y="264" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602665101704" />
-    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1602664977982">
+    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1605191591309">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602664977982" />
+    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605191591309" />
     <state x="790" y="311" width="477" height="628" key="svn.repositoryBrowser" timestamp="1604044652223">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
